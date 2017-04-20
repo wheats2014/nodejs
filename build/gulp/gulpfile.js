@@ -1,1 +1,1 @@
-require('./gulp2');
+require('./gulp_htmlmin');
